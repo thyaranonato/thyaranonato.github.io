@@ -1,0 +1,43 @@
+.font-name {
+    font-family: 'Noto Sans', sans-serif;
+    text-align: center;
+  }
+
+body {
+    background-color: #785964;
+    padding: 3%;
+  }
+
+#chang-style {
+    font-size: 20px;
+    text-align: center; 
+    position: absolute;
+    top: 20%; 
+    right: 50%;
+    left: 12%;
+  }
+
+.learn {
+    font-size: 20px;
+  }
+
+.org {
+    font-size: 15px;
+  }
+
+#format-img {
+    border-radius: 50%; 
+    float: left; 
+    padding: 10px;
+    background-color: blueviolet;
+  }
+
+.image-container {
+    height: 300px; 
+    position: relative;
+  }
+
+ul li:nth-child(odd) {
+    background-color:coral;
+}
+
